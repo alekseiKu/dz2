@@ -1,0 +1,2 @@
+public class dz2 {
+}
